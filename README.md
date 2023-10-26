@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">👋 Hi!</h1>
+<h2 align="center">I'm Matt, a high school student from Slovenia!</h2>
 
-<!--
-**mattishere/mattishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img height="250px" src="https://github-readme-stats.vercel.app/api?username=mattishere&show_icons=true&theme=catppuccin_mocha" /> <img  height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattishere&theme=catppuccin_mocha&hide=javascript&layout=donut" />
 
-Here are some ideas to get you started:
+## 🍁 I mainly program in:
+- Go
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 I'm currently learning:
+- Haskell
+- Rust
+
+### 🖥 My Links
+- [Portfolio](https://matthere.net),
+- Discord: *@mattishereatm*
