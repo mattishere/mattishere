@@ -12,5 +12,5 @@
 - Rust
 
 ### 🖥 My Links:
-- [Portfolio](https://matthere.net),
+- [Portfolio](https://matthere.net)
 - Discord: *@mattishereatm*
