@@ -11,6 +11,6 @@
 - Haskell
 - Rust
 
-### 🖥 My Links
+### 🖥 My Links:
 - [Portfolio](https://matthere.net),
 - Discord: *@mattishereatm*
